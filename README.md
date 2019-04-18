@@ -2,15 +2,15 @@
 Principles for Optimal Dev Practice 
 
 
-PlusOne Session - May 11th
-###I'll be filling this out with much more detail shortly
+PlusOne Session - May 11th  <br />
+###I'll be filling this out with much more detail shortly  <br />
 
------:10:00 Setup
-10:00-10:30 Intro to PlusOne
-10:30-12:30 Rapid Prototyping
-12:00-1:00 Lunch 
-1:00-2:30 Mob Programming 
-2:30-3:00 Break / Feedback 
-3:00-4:00 Live Coding Session
-4:00 ---- Happy Hour
+-----:10:00 Setup   <br />
+10:00-10:30 Intro to PlusOne  <br />
+10:30-12:30 Rapid Prototyping  <br />
+12:00-1:00 Lunch   <br />
+1:00-2:30 Mob Programming   <br />
+2:30-3:00 Break / Feedback   <br />
+3:00-4:00 Live Coding Session  <br />
+4:00 ---- Happy Hour  <br />
 
