@@ -2,7 +2,7 @@
 Principles for Organizing Time, Attention and Space for Optimal Dev Practice
 
 
-PlusOne Session - May 11th  <br />
+PlusOne Session - May 10th  <br />
 ###I'll be filling this out with much more detail shortly  <br />
 
 -----:10:00 Setup   <br />
